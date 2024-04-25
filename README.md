@@ -8,4 +8,4 @@ This C program is developed for understanding the general shape of explicit math
 * Ankit Bhandari
 ## Project Description
 Our project for ease of development is divided into many program files. It is done to reduce complexity of the complete program.Our project is just a simple
-way to visualize the shape of any mathematical function expressed in [https://en.wikipedia.org/wiki/Cartesian_coordinate_system](#"Cartesian Coordinate System"). We have managed to 
+way to visualize the shape of any mathematical function expressed in [https://en.wikipedia.org/wiki/Cartesian_coordinate_system](#Cartesian-Coordinate-System). We have managed to 
