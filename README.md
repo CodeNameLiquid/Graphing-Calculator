@@ -1,2 +1,2 @@
-#Graphing-Calculator
-**bold**
+# Graphing-Calculator
+
