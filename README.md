@@ -19,6 +19,6 @@ gcc prototype.c -o prototype.exe -mwindows
 ## Notes
 * This program is only able to graph explicit functions ( y=f(x) ).
 * The graph may look thinner in some region due to increase in rate of change of the function, this problem can be mitigated by changing the tolerance.
-* The function must be written according to the c syntax (Eg: arcsin(x) becomes asin(x), e^x^ becomes exp(x) and so on).
+* The function must be written according to the c syntax (Eg: arcsin(x) becomes asin(x), e^x becomes exp(x) and so on).
 * Be extra careful not to forget brackets. The program will not work if even one is missing or misplaced.
 * The current scale of the graph is the centimeter scale and can be changed from the program file.
